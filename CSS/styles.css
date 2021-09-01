@@ -1,0 +1,38 @@
+/* This is the way to give comments in CSS  */
+
+/**************************TAG SELECTOR**********************/
+
+h1{
+  color: darkblue ;
+  text-shadow: 2px 2px 5px darkred;
+}
+
+img {
+   border-radius: 25%;
+}
+
+img:hover {
+   background-color: gold;
+   border-radius: 100%;
+}
+
+p {
+  width: 30% ;
+}
+
+/************************CLASS SELECTOR*************************/
+
+.mushroom{
+  background-color: green;
+}
+
+.tomato{
+  background-color: orange;
+}
+
+
+/***********************ID SELECTOR****************/
+
+#heading {
+  color: yellow;
+}
